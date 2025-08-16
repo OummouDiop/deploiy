@@ -1,0 +1,11 @@
+# Ignorer tous les fichiers du répertoire parent
+../../*
+
+# Mais inclure seulement notre projet
+!calculatrice/
+!front/
+!requirements.txt
+!Procfile
+!deploy.bat
+!.gitignore
+!README.md
